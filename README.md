@@ -126,7 +126,7 @@ The application is deployed on an Ubuntu-based AWS EC2 instance using Streamlit.
     *  Polly Access
     *  Transcribe Access
 #### 1️⃣ Clone Repository
-  *  git clone https://github.com/YOUR_USERNAME/AI-Interview-Coach-AWS.git
+  *  git clone https://github.com/alimirza817/AI-Interview-Coach-AWS.git
   *  cd AI-Interview-Coach-AWS
 #### 2️⃣ Create Virtual Environment
   *  python3 -m venv venv
